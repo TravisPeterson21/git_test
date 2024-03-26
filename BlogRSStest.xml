@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
-        <title>Your Blog Title</title>
-        <link>https://yourblog.com</link>
-        <description>Your blog description</description>
+        <title>CIID Blog</title>
+        <link>https://ciidta.communities.ed.gov/#program/blog-test-page</link>
+        <description>The latest topics from CIID</description>
         <item>
-            <title>Post Title</title>
-            <link>https://yourblog.com/post-url</link>
-            <description>Short description of the post</description>
-            <pubDate>Publication Date (e.g., Tue, 26 Mar 2024 18:00:00 GMT)</pubDate>
+            <title>Putting IDEA Data to Use</title>
+            <link>https://ciidta.communities.ed.gov/#program/blog1-putting-idea-data-to-use</link>
+            <description>You’ve collected and cleaned it, now what?</description>
+            <pubDate>October 8, 2021</pubDate>
+            <author>Sara Sinani</author>
+            <enclosure url="https://ciidta.communities.ed.gov/api/ApplicationMedia/GetDownload/107021" type="image/jpeg" />
+            
         </item>
         <!-- Add more items for other blog posts -->
     </channel>
