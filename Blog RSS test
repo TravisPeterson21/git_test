@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Your Blog Title</title>
+        <link>https://yourblog.com</link>
+        <description>Your blog description</description>
+        <item>
+            <title>Post Title</title>
+            <link>https://yourblog.com/post-url</link>
+            <description>Short description of the post</description>
+            <pubDate>Publication Date (e.g., Tue, 26 Mar 2024 18:00:00 GMT)</pubDate>
+        </item>
+        <!-- Add more items for other blog posts -->
+    </channel>
+</rss>
