@@ -11,8 +11,128 @@
             <pubDate>October 8, 2021</pubDate>
             <author>Sara Sinani</author>
             <enclosure url="https://ciidta.communities.ed.gov/api/ApplicationMedia/GetDownload/107021" type="image/jpeg" />
-            
         </item>
+         <item>
+            <title>Using the IDEA Part B Data Submission Organizer to Sustain Generate</title>
+            <link>https://ciidta.communities.ed.gov/#program/blog2-using-the-idea-part-b-data-submission-organizer-to-sustain-generate</link>
+            <description>The IDEA Part B Data Submission Organizer is a recently released CIID tool that states can use to document and track tasks necessary for collecting data, creating data files using Generate, submitting data, and maintaining Generate.</description>
+            <pubDate>December 6, 2021</pubDate>
+            <author>Lindsay Wise</author>
+            <enclosure url="https://ciidta.communities.ed.gov/api/ApplicationMedia/GetDownload/107926" type="image/jpeg" />
+        </item> 
+        <item>
+            <title>Data Integration: Use Case and Scope</title>
+            <link>https://ciidta.communities.ed.gov/#program/blog3-dataintegrationusecaseandscope</link>
+            <description>When it comes to IDEA data integration, there are several moving pieces that must align to ensure a state’s success.</description>
+            <pubDate>December 15, 2021</pubDate>
+            <author>Darren Wright</author>
+            <enclosure url="https://ciidta.communities.ed.gov/api/ApplicationMedia/GetDownload/107927" type="image/jpeg" />   
+        </item> 
+        <item>
+            <title>Generate Release 4.2: Office Hour</title>
+            <link>https://ciidta.communities.ed.gov/#program/blog4-generate-release-4.2-office-hour</link>
+            <description>Sleep through your 8 am class? Be sure to get to Office Hours!</description>
+            <pubDate>March 1, 2022</pubDate>
+            <author>Dan Mello</author>
+            <enclosure url="https://ciidta.communities.ed.gov/api/ApplicationMedia/GetDownload/108513" type="image/jpeg" />
+        </item> 
+        <item>
+            <title>Keys for Long-Term Success with Generate</title>
+            <link>https://ciidta.communities.ed.gov/#program/blog5-keys-for-long-term-success-with-generate</link>
+            <description>A long-term Part B data manager unexpectedly retires – If this happens to your state, can your state handle it?</description>
+            <pubDate>April 11, 2022</pubDate>
+            <author>Miki Imura</author>
+            <enclosure url="https://ciidta.communities.ed.gov/api/ApplicationMedia/GetDownload/108555" type="image/jpeg" />
+        </item> 
+        <item>
+            <title>Just Released: Q&A from Generate 5.0 Release Office Hour</title>
+            <link>https://ciidta.communities.ed.gov/#program/blog6-just-released-qa-from-generate-5.0-release-office-hour</link>
+            <description>In case you missed it, CIID held an office hour to coincide with the latest release of Generate. We have compiled a list of Q&A and posted it here. State teams were able to connect with CIID developers about the installation process and get updates on upcoming innovations to improve transparency and build the Generate Open Source Community (OSC).</description>
+            <pubDate>September 13, 2022</pubDate>
+            <author>Sara Sinani</author>
+            <enclosure url="https://ciidta.communities.ed.gov/api/ApplicationMedia/GetDownload/109151" type="image/jpeg" />
+        </item> 
+        <item>
+            <title>Five things to know about CIID’s Data Integration Project Planner</title>
+            <link>https://ciidta.communities.ed.gov/#program/blog7-five-things-to-know-about-ciid-data-integration-project-planner</link>
+            <description>As a part of CIID Data Integration Toolkit Step 2, the Data Integration Project Planner helps state teams identify, document and track the people and processes needed to integrate IDEA Part B data into CEDS standards using Generate.</description>
+            <pubDate>October 7, 2022</pubDate>
+            <author>Lindsay Wise</author>
+            <enclosure url="https://ciidta.communities.ed.gov/api/ApplicationMedia/GetDownload/109188" type="image/jpeg" />
+        </item>
+        <item>
+            <title>CIID's Business Intelligence Workgroup</title>
+            <link>https://ciidta.communities.ed.gov/#program/blog8-ciids-business-intelligence-workgroup</link>
+            <description>Do you wish all the data your state reports to EDFacts via Generate were automatically processed into beautiful reports full of data visuals that you can manipulate and share easily? Do you wish someone was developing those reports according to expert knowledge and understanding? That’s exactly the goal of the CIID-BI Workgroup! </description>
+            <pubDate>December 5, 2022</pubDate>
+            <author>Miki Imura</author>
+            <enclosure url="https://ciidta.communities.ed.gov/api/ApplicationMedia/GetDownload/109912" type="image/jpeg" />
+        </item> 
+        <item>
+            <title>State Success Stories - Utah and Mississippi</title>
+            <link>https://ciidta.communities.ed.gov/#program/blog9-state-success-stories-utah-and-mississippi</link>
+            <description>"This year we are introducing a new type of blog post featuring state success stories. Installing and operationalizing Generate is a complex process that needs strong coordination and planning. CIID TA Providers support states as they build internal capacity and better data quality. Learn how Utah’s strong team supported their success and how Mississippi saw improvement in data quality and understanding of the data as each state submitted its first set of files using Generate:"</description>
+            <pubDate>January 17, 2023</pubDate>
+            <author>Elizabeth Brunet</author>
+            <author>Audrey Rudick</author>
+            <enclosure url="https://ciidta.communities.ed.gov/api/ApplicationMedia/GetDownload/110000" type="image/jpeg" />
+        </item> 
+        <item>
+            <title>The Year of Intentional Technical Assistance (TA)</title>
+            <link>https://ciidta.communities.ed.gov/#program/blog10-the-year-of-intentional-technical-assistance</link>
+            <description>What do we mean by “intentionality” when we talk about Generate and data integration? Our TA team spent a little time reflecting on our goals for supporting states this year, and the team overwhelmingly wanted to focus on being intentional in our work. But what does that mean? And how do we support states to be intentional? To us, it means being thinking ahead as we work with SEAs, structuring integration projects to be nimble enough to maintain momentum while handling inevitable bumps in the road. To start, here are some CIID tools that support thoughtful decision making and purposeful planning:</description>
+            <pubDate>February 20, 2023</pubDate>
+            <author>Amber Stohr</author>
+            <enclosure url="https://ciidta.communities.ed.gov/api/ApplicationMedia/GetDownload/110109" type="image/jpeg" />
+        </item> 
+        <item>
+            <title>Generate Data Review and Validation Tools</title>
+            <link>https://ciidta.communities.ed.gov/#program/blog11-generate-data-review-and-validation-tools</link>
+            <description>Since its inception, Generate has provided an effective method for ingesting and transforming data from state education agency (SEA) information systems to produce EDFacts submission files. As Generate continues to evolve, we have added new features to increase efficiency for reviewing and validating data. These new features, or utilities, aid the transition from SEA legacy processes to Generate created files. They also provide greater transparency and confidence for data quality.</description>
+            <pubDate>March 1, 2023</pubDate>
+            <author>Jeff Wheaton</author>
+            <enclosure url="https://ciidta.communities.ed.gov/api/ApplicationMedia/GetDownload/110193" type="image/jpeg" />
+        </item> 
+        <item>
+            <title>8 Reasons Why CIID Shifted Our Generate Documentation to GitBook</title>
+            <link>https://ciidta.communities.ed.gov/#program/blog12-8-reasons-why-ciid-shifted-our-generate-documentation-to-gitbook</link>
+            <description>The importance of having well organized and technical documentation is a high priority for teams and projects working in the tech field but managing and organizing documentation can be a daunting task. To tackle this challenge and simplify access for state education agencies (SEAs), we have deployed our Generate documentation on the GitBook platform. The Generate User Guide, Installation Guide and Release Notes have been combined and reorganized on GitBook. In this post, we will look at five reasons maintaining high-quality technical documentation is important and three reasons why we chose this tool as our documentation platform to support our state partners.</description>
+            <pubDate>March 20, 2023</pubDate>
+            <author>Travis Peterson</author>
+            <enclosure url="https://ciidta.communities.ed.gov/api/ApplicationMedia/GetDownload/110357" type="image/jpeg" />
+        </item> 
+        <item>
+            <title>CIID's Data Integration Toolkit Supporting DMS 2.0</title>
+            <link>https://ciidta.communities.ed.gov/#program/blog13-ciids-data-integration-toolkit-supporting-dms-2.0</link>
+            <description>In addition to being a key tool to support smooth transitions and sustainability, documentation created with CIID TA providers can help support engagement with OSEP for Differentiated Monitoring and Support (DMS) 2.0! SEA’s will be asked to show that they meet the requirements of OSEP’s General Supervision Part B Data Protocol and will be asked to share Integrated Monitoring Documents, Sustaining Compliance & Improvement Documents and Data Documents.</description>
+            <pubDate>June 7, 2023</pubDate>
+            <author>Carol Seay</author>
+            <enclosure url="https://ciidta.communities.ed.gov/api/ApplicationMedia/GetDownload/110642" type="image/jpeg" />
+        </item> 
+        <item>
+            <title>Stay up-to-date on Generate</title>
+            <link>https://ciidta.communities.ed.gov/#program/blog14-stay-up-to-date-on-generate</link>
+            <description>In the world of IDEA (Individuals with Disabilities Education Act) data management, staying informed about the latest updates and innovations is crucial to ensuring efficient and effective operations. Attending CIID’s Generate Office Hours is your ticket to understanding the details of these releases. In this blog post, we will delve into the high points of Releases 11.0 and 11.1 and explain why participating in Office Hours is a priority for IDEA Part B staff, EDFacts Coordinators, developers, and IT (Information Technology) leaders.</description>
+            <pubDate>September 21, 2023</pubDate>
+            <author>Dan Mello</author>
+            <enclosure url="https://ciidta.communities.ed.gov/api/ApplicationMedia/GetDownload/110914" type="image/jpeg" />
+        </item> 
+        <item>
+            <title>Utah's Experience with Generate</title>
+            <link>https://ciidta.communities.ed.gov/#program/blog15-utahs-experience-with-generate</link>
+            <description>In this video, Colby Wilson, the EDFacts Coordinator in Utah, discusses the SEA's experience with data submission and the multifaceted approach they've taken.</description>
+            <pubDate>October 19, 2023</pubDate>
+            <author>Dan Mello</author>
+            <enclosure url="https://ciidta.communities.ed.gov/api/ApplicationMedia/GetDownload/107021" type="image/jpeg" />
+        </item> 
+        <item>
+            <title>A Sharper Focus on Data Details</title>
+            <link>https://ciidta.communities.ed.gov/#program/blog16-a-sharper-focus-on-data-details</link>
+            <description>In an ideal world, when SEAs have been meeting the criteria for timely, accurate and complete data, it will be a breeze to install Generate, write ETLS and match the new files to the legacy file. The state’s processes and systems have worked for years, data quality reports meet the criteria, and files are easy to submit, so everything must be correct. The picture taken of data is well composed and sharply focused.</description>
+            <pubDate>March 22, 2023</pubDate>
+            <author>Audrey Rudick</author>
+            <enclosure url="https://ciidta.communities.ed.gov/api/ApplicationMedia/GetDownload/111375" type="image/jpeg" />
+        </item> 
         <!-- Add more items for other blog posts -->
     </channel>
 </rss>
