@@ -21,7 +21,8 @@
   * [Toggle](user-guide/settings/toggle.md)
   * [Data Store](user-guide/settings/data-store.md)
   * [Update](user-guide/settings/update.md)
-* [Generate Help](user-guide/generate-help.md)
+* [Generate Help](user-guide/generate-help/README.md)
+  * [Quality Assurance](user-guide/generate-help/quality-assurance.md)
 * [FAQ](user-guide/faq.md)
 
 ## 🧑‍💻 Developer Guides
@@ -82,14 +83,13 @@
 ## 📝 Release Notes
 
 * [Introduction](release-notes/introduction/README.md)
-  * [Page](release-notes/introduction/page.md)
   * [Release Notes 11.2](release-notes/introduction/release-notes-11.2.md)
   * [Release Notes 11.1](release-notes/introduction/release-notes-11.1/README.md)
     * [Generate 11.1 Office Hour](release-notes/introduction/release-notes-11.1/generate-11.1-office-hour.md)
   * [Release Notes 11.0](release-notes/introduction/release-notes-11.0/README.md)
     * [Generate 11.0 Office Hour](release-notes/introduction/release-notes-11.0/generate-11.0-office-hour.md)
   * [Archive](release-notes/introduction/archive/README.md)
-    * [Release Notes v5.3 ](release-notes/introduction/archive/release-notes-v5.3/README.md)
+    * [Release Notes v5.3](release-notes/introduction/archive/release-notes-v5.3/README.md)
       * [Generate 5.3 Office Hour](release-notes/introduction/archive/release-notes-v5.3/generate-5.3-office-hour.md)
     * [Release Notes v5.2](release-notes/introduction/archive/release-notes-v5.2/README.md)
       * [Generate 5.2 Office Hour](release-notes/introduction/archive/release-notes-v5.2/generate-5.2-office-hour.md)
@@ -113,11 +113,3 @@
 ## 🔥 Hot Fixes
 
 * [Hot Fix - 4/13/2023](hot-fixes/hot-fix-4-13-2023.md)
-
-## Group 1
-
-* [Quality Assurance](group-1/quality-assurance.md)
-
-***
-
-* [Page 1](page-1.md)
