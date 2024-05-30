@@ -1,0 +1,58 @@
+name: Update GitBook with ETL Changes
+
+on:
+  push:
+    paths:
+      - 'change-log.md'
+
+jobs:
+  update-gitbook:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Parse Change Log and Update GitBook
+        run: |
+          # Define a function to update changelogs
+          update_changelog() {
+            FACT_TYPE=$1
+            DATE=$2
+            NEW_CHANGES=$(awk '/^#/{p=0} /## '$DATE'/{p=1} p' change-log.md | tail -n +2)
+            
+            # Define the target file
+            TARGET_FILE="docs/${FACT_TYPE}/${FACT_TYPE} Changelog/${DATE}.md"
+
+            # Write the changes to the target file
+            echo "# ${FACT_TYPE} Changelog - ${DATE}" > $TARGET_FILE
+            echo "$NEW_CHANGES" >> $TARGET_FILE
+
+            # Update SUMMARY.md to include the new changes
+            sed -i '/${FACT_TYPE} Changelog/a \ \ - [${FACT_TYPE} Changelog - ${DATE}](docs/${FACT_TYPE}/${FACT_TYPE} Changelog/${DATE}.md)' docs/SUMMARY.md
+          }
+
+          # List of fact types and corresponding dates to update
+          FACT_TYPES=("Assessments" "Child Count" "Directory" "Discipline" "Exiting" "Staff")
+          DATE=$(date +'%Y-%m-%d')
+
+          # Loop through each fact type to update its changelog
+          for FACT_TYPE in "${FACT_TYPES[@]}"; do
+            update_changelog $FACT_TYPE $DATE
+          done
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          git commit -m "Update GitBook with ETL changes from $DATE"
+          git push
