@@ -1,0 +1,123 @@
+# Table of contents
+
+* [⚙️ Introduction to Generate](README.md)
+
+## 🗺️ User Guide
+
+* [Getting Started](user-guide/getting-started/README.md)
+  * [Requesting Generate](user-guide/getting-started/requesting-generate.md)
+  * [User Roles and Logging In](user-guide/getting-started/user-roles-and-logging-in.md)
+  * [Navigating Generate](user-guide/getting-started/navigating-generate.md)
+* [Data Population Summary](user-guide/data-population-summary/README.md)
+  * [Producing Reports](user-guide/data-population-summary/producing-reports.md)
+  * [Reports](user-guide/data-population-summary/reports.md)
+  * [Running Reports](user-guide/data-population-summary/running-reports.md)
+  * [Standard Reports](user-guide/data-population-summary/standard-reports/README.md)
+    * [EDFacts Reports](user-guide/data-population-summary/standard-reports/edfacts-reports/README.md)
+      * [Creating Submission Files](user-guide/data-population-summary/standard-reports/edfacts-reports/creating-submission-files.md)
+    * [SPP/APR Reports](user-guide/data-population-summary/standard-reports/spp-apr-reports.md)
+    * [Reports Library](user-guide/data-population-summary/standard-reports/reports-library.md)
+* [Settings](user-guide/settings/README.md)
+  * [Toggle](user-guide/settings/toggle.md)
+  * [Data Store](user-guide/settings/data-store.md)
+  * [Update](user-guide/settings/update.md)
+* [Generate Help](user-guide/generate-help.md)
+* [FAQ](user-guide/faq.md)
+
+## 🧑‍💻 Developer Guides
+
+* [Getting Started](developer-guides/getting-started/README.md)
+  * [Installation](developer-guides/getting-started/installation.md)
+  * [Optional Installations](developer-guides/getting-started/optional-installations.md)
+  * [Installation FAQ](developer-guides/getting-started/installation-faq.md)
+  * [Implementation](developer-guides/getting-started/implementation.md)
+  * [Data Migration](developer-guides/getting-started/data-migration.md)
+  * [Implementation FAQ](developer-guides/getting-started/implementation-faq.md)
+* [Generate Utilities](developer-guides/generate-utilities/README.md)
+  * [File Comparison](developer-guides/generate-utilities/file-comparison.md)
+  * [Staging Validation](developer-guides/generate-utilities/staging-validation.md)
+  * [Rebuild Indexes](developer-guides/generate-utilities/rebuild-indexes.md)
+  * [Cleanup Grades Offered](developer-guides/generate-utilities/cleanup-grades-offered.md)
+  * [Cleanup Debug Tables](developer-guides/generate-utilities/cleanup-debug-tables.md)
+  * [Source System Reference Data Mapping Utility](developer-guides/generate-utilities/source-system-reference-data-mapping-utility.md)
+* [Upgrade](developer-guides/upgrade/README.md)
+  * [Generate Update](developer-guides/upgrade/generate-update.md)
+  * [Manual Update Steps](developer-guides/upgrade/manual-update-steps.md)
+  * [Doppler method](developer-guides/upgrade/doppler-method.md)
+  * [Optional Installations](developer-guides/upgrade/optional-installations.md)
+
+## Generate Fact Types
+
+* [IDEA Files](generate-fact-types/idea-files/README.md)
+  * [Assessments](generate-fact-types/idea-files/assessments/README.md)
+    * [Assessments Changelog](generate-fact-types/idea-files/assessments/assessments-changelog.md)
+  * [Child Count](generate-fact-types/idea-files/child-count/README.md)
+    * [Child Count Changelog](generate-fact-types/idea-files/child-count/child-count-changelog.md)
+  * [Directory](generate-fact-types/idea-files/directory/README.md)
+    * [Directory Changelog](generate-fact-types/idea-files/directory/directory-changelog.md)
+  * [Discipline](generate-fact-types/idea-files/discipline/README.md)
+    * [Discipline Changelog](generate-fact-types/idea-files/discipline/discipline-changelog.md)
+  * [Exiting](generate-fact-types/idea-files/exiting/README.md)
+    * [Exiting Changelog](generate-fact-types/idea-files/exiting/exiting-changelog.md)
+  * [Staff](generate-fact-types/idea-files/staff/README.md)
+    * [Staff Changelog](generate-fact-types/idea-files/staff/staff-changelog.md)
+* [Non-IDEA Files](generate-fact-types/non-idea-files/README.md)
+  * [Assessments](generate-fact-types/non-idea-files/assessments.md)
+  * [Chronic](generate-fact-types/non-idea-files/chronic.md)
+  * [Directory](generate-fact-types/non-idea-files/directory.md)
+  * [Dropout](generate-fact-types/non-idea-files/dropout.md)
+  * [GraduatesCompleters](generate-fact-types/non-idea-files/graduatescompleters.md)
+  * [GraduationRate](generate-fact-types/non-idea-files/graduationrate.md)
+  * [Homeless](generate-fact-types/non-idea-files/homeless.md)
+  * [HsGradPSEnroll](generate-fact-types/non-idea-files/hsgradpsenroll.md)
+  * [Immigrant](generate-fact-types/non-idea-files/immigrant.md)
+  * [Membership](generate-fact-types/non-idea-files/membership.md)
+  * [MigrantEducationProgram](generate-fact-types/non-idea-files/migranteducationprogram.md)
+  * [NeglectedOrDelinquent](generate-fact-types/non-idea-files/neglectedordelinquent.md)
+  * [Staff](generate-fact-types/non-idea-files/staff.md)
+  * [TitleI](generate-fact-types/non-idea-files/titlei.md)
+  * [TitleIIIELOct](generate-fact-types/non-idea-files/titleiiieloct.md)
+  * [TitleIIIELSY](generate-fact-types/non-idea-files/titleiiielsy.md)
+
+## 📝 Release Notes
+
+* [Introduction](release-notes/introduction/README.md)
+  * [Page](release-notes/introduction/page.md)
+  * [Release Notes 11.2](release-notes/introduction/release-notes-11.2.md)
+  * [Release Notes 11.1](release-notes/introduction/release-notes-11.1/README.md)
+    * [Generate 11.1 Office Hour](release-notes/introduction/release-notes-11.1/generate-11.1-office-hour.md)
+  * [Release Notes 11.0](release-notes/introduction/release-notes-11.0/README.md)
+    * [Generate 11.0 Office Hour](release-notes/introduction/release-notes-11.0/generate-11.0-office-hour.md)
+  * [Archive](release-notes/introduction/archive/README.md)
+    * [Release Notes v5.3 ](release-notes/introduction/archive/release-notes-v5.3/README.md)
+      * [Generate 5.3 Office Hour](release-notes/introduction/archive/release-notes-v5.3/generate-5.3-office-hour.md)
+    * [Release Notes v5.2](release-notes/introduction/archive/release-notes-v5.2/README.md)
+      * [Generate 5.2 Office Hour](release-notes/introduction/archive/release-notes-v5.2/generate-5.2-office-hour.md)
+    * [Release Notes v5.1](release-notes/introduction/archive/release-notes-v5.1/README.md)
+      * [Generate 5.1 Office Hour](release-notes/introduction/archive/release-notes-v5.1/generate-5.1-office-hour.md)
+    * [Release Notes v5.0](release-notes/introduction/archive/release-notes-v5.0/README.md)
+      * [Generate 5.0 Office Hour](release-notes/introduction/archive/release-notes-v5.0/generate-5.0-office-hour.md)
+    * [Release Notes v4.1](release-notes/introduction/archive/release-notes-v4.1.md)
+    * [Release Notes v4.0](release-notes/introduction/archive/release-notes-v4.0.md)
+    * [Release Notes v3.8](release-notes/introduction/archive/release-notes-v3.8.md)
+    * [Release Notes v3.7](release-notes/introduction/archive/release-notes-v3.7.md)
+    * [Release Notes v3.6](release-notes/introduction/archive/release-notes-v3.6.md)
+    * [Release Notes v3.5](release-notes/introduction/archive/release-notes-v3.5.md)
+    * [Release Notes v3.4](release-notes/introduction/archive/release-notes-v3.4.md)
+    * [Release Notes v3.3](release-notes/introduction/archive/release-notes-v3.3.md)
+    * [Release Notes v3.2](release-notes/introduction/archive/release-notes-v3.2.md)
+    * [Release Notes v3.1](release-notes/introduction/archive/release-notes-v3.1.md)
+    * [Release Notes v3.0](release-notes/introduction/archive/release-notes-v3.0.md)
+    * [Release Notes v2.4](release-notes/introduction/archive/release-notes-v2.4.md)
+
+## 🔥 Hot Fixes
+
+* [Hot Fix - 4/13/2023](hot-fixes/hot-fix-4-13-2023.md)
+
+## Group 1
+
+* [Quality Assurance](group-1/quality-assurance.md)
+
+***
+
+* [Page 1](page-1.md)
