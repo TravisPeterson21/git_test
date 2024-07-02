@@ -10,7 +10,7 @@ The Center for the Integration of IDEA Data (CIID) developed the Generate applic
 
 **Why use Generate?**
 
-* Freely available to all SEAs and is installed inside your state’s environment
+* Freely available to all SEAs and is installed inside your state’s environment.
 * Automates and simplifies reporting for IDEA ED_Facts_ and State Performance Plan/Annual Performance Report (SPP/APR)
 * Improves consistency across states for IDEA data
 * Supports timely and efficient reporting and submission of ED_Facts_ data
